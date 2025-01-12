@@ -1,4 +1,4 @@
--> Resumo dos métodos utilizados no código fonte:
+## Resumo dos métodos utilizados no código fonte:
 
 Python: Como linguagem de programação principal para análise e processamento de dados.
 Bibliotecas Python:
@@ -22,7 +22,7 @@ Naive Bayes (NB).
 Decision Tree (Árvore de Decisão).
 K-Neighbors (K-NN).
 
-1. Introdução:
+### 1. Introdução:
 
 Efetuou-se o presente estudo por meio da análise dos arquivos
 disponibilizados na plataforma Kaggle, o dataset utilizado foi o: Brewer's Friend
@@ -110,7 +110,7 @@ Após os resultados exibidos, foi definido a melhor função a ser utilizada, e 
 execução foi realizada, exibindo, como resultado da função a melhor acurácia,
 melhor K, método de distância e melhor valor para p.
 
-2. Conclusão
+## 2. Conclusão
 
 Em primeiro momento, verificou a necessidade da limpeza dos dados, após a
 limpeza e parâmetros de substituição de dados faltantes, procedeu-se com a
@@ -128,7 +128,7 @@ Melhor acurácia: 0.46519308943089427, Melhor k: 9. Método a distância:
 chebyshev e Melhor valor p: 1.
 
 
-3. Referências:
+## 3. Referências:
    
 MARTINS, Paola da Silva. Imputação de Dados Faltantes . Rio de Janeiro, 2017.
 19 p. Monografia( Bacharel em Estatística) - Universidade Federal Fluminense.

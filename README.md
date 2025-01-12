@@ -129,6 +129,7 @@ chebyshev e Melhor valor p: 1.
 
 
 3. Referências:
+   
 MARTINS, Paola da Silva. Imputação de Dados Faltantes . Rio de Janeiro, 2017.
 19 p. Monografia( Bacharel em Estatística) - Universidade Federal Fluminense.
 

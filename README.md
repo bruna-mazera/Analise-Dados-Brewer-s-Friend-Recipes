@@ -1,3 +1,27 @@
+-> Resumo dos métodos utilizados no código fonte:
+Python: Como linguagem de programação principal para análise e processamento de dados.
+Bibliotecas Python:
+Pandas: Para manipulação de dados.
+Matplotlib: Para criação de gráficos e visualização de dados.
+NumPy: Para trabalhar com arrays, matrizes e funções matemáticas.
+Scikit-learn (implicitamente mencionado pelas funções relacionadas à modelagem de machine learning, como KNeighbors e StratifiedKFold).
+Funções e Técnicas:
+Data Cleaning:
+Método isnull(): Para identificar dados faltantes.
+Imputação de dados faltantes:
+Mediana: Utilizada para substituir valores em variáveis com distribuição centralizada.
+Média: Utilizada para substituir valores em variáveis com distribuição descentralizada.
+get_dummies(): Para converter variáveis categóricas em variáveis dummy (codificação one-hot).
+MenMaxScaler: Utilizado para normalização dos dados.
+StratifiedKFold e Cross_val_score: Para validar e testar os modelos.
+Boxplot e Histograma: Para análise visual de dispersão e distribuição dos dados.
+Modelos de Machine Learning:
+Logistic Regression (Regressão Logística).
+Naive Bayes (NB).
+Decision Tree (Árvore de Decisão).
+K-Neighbors (K-NN).
+------------------------------------------------------------------------------------------
+
 1. Introdução:
 
 Efetuou-se o presente estudo por meio da análise dos arquivos
@@ -86,7 +110,7 @@ Após os resultados exibidos, foi definido a melhor função a ser utilizada, e 
 execução foi realizada, exibindo, como resultado da função a melhor acurácia,
 melhor K, método de distância e melhor valor para p.
 
-2.Conclusão
+2. Conclusão
 
 Em primeiro momento, verificou a necessidade da limpeza dos dados, após a
 limpeza e parâmetros de substituição de dados faltantes, procedeu-se com a
@@ -104,7 +128,7 @@ Melhor acurácia: 0.46519308943089427, Melhor k: 9. Método a distância:
 chebyshev e Melhor valor p: 1.
 
 
-3.Referências:
+3. Referências:
 MARTINS, Paola da Silva. Imputação de Dados Faltantes . Rio de Janeiro, 2017.
 19 p. Monografia( Bacharel em Estatística) - Universidade Federal Fluminense.
 

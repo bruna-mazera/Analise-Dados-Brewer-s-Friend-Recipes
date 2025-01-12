@@ -1,4 +1,5 @@
 -> Resumo dos métodos utilizados no código fonte:
+
 Python: Como linguagem de programação principal para análise e processamento de dados.
 Bibliotecas Python:
 Pandas: Para manipulação de dados.

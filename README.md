@@ -20,7 +20,6 @@ Logistic Regression (Regressão Logística).
 Naive Bayes (NB).
 Decision Tree (Árvore de Decisão).
 K-Neighbors (K-NN).
-------------------------------------------------------------------------------------------
 
 1. Introdução:
 

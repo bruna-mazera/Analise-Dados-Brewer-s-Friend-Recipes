@@ -1,4 +1,6 @@
-## Resumo dos métodos utilizados no código fonte:
+## Análise do banco de dados 'Brewer's friend Beer Recipes’  
+
+### 1. Resumo dos métodos utilizados:
 
 Python: Como linguagem de programação principal para análise e processamento de dados.
 Bibliotecas Python:
@@ -7,8 +9,7 @@ Matplotlib: Para criação de gráficos e visualização de dados.
 NumPy: Para trabalhar com arrays, matrizes e funções matemáticas.
 Scikit-learn (implicitamente mencionado pelas funções relacionadas à modelagem de machine learning, como KNeighbors e StratifiedKFold).
 Funções e Técnicas:
-Data Cleaning:
-Método isnull(): Para identificar dados faltantes.
+Data Cleaning: Método isnull(): Para identificar dados faltantes.
 Imputação de dados faltantes:
 Mediana: Utilizada para substituir valores em variáveis com distribuição centralizada.
 Média: Utilizada para substituir valores em variáveis com distribuição descentralizada.
@@ -22,7 +23,7 @@ Naive Bayes (NB).
 Decision Tree (Árvore de Decisão).
 K-Neighbors (K-NN).
 
-### 1. Introdução:
+### 2. Introdução:
 
 Efetuou-se o presente estudo por meio da análise dos arquivos
 disponibilizados na plataforma Kaggle, o dataset utilizado foi o: Brewer's Friend
@@ -110,7 +111,7 @@ Após os resultados exibidos, foi definido a melhor função a ser utilizada, e 
 execução foi realizada, exibindo, como resultado da função a melhor acurácia,
 melhor K, método de distância e melhor valor para p.
 
-## 2. Conclusão
+## 3. Conclusão
 
 Em primeiro momento, verificou a necessidade da limpeza dos dados, após a
 limpeza e parâmetros de substituição de dados faltantes, procedeu-se com a
@@ -138,10 +139,11 @@ saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo,
 Brasil . Cadernos de Saúde Pública, Rio de Janeiro, 35 ed., v. 7, p.1-19, Julho,
 2019.
 
+Didaticatec, exercício do curso utilizado como base para implementar o código do curso.
+
 MACHADO, E.; DE ASSIS, C.; PEREIRA, Modelagem, Implementação e  Avaliação de Estratégias de Negociação Baseadas em Algoritmos de  Aprendizado de Máquina para o Mercado Financeiro. Revista Brasileira de  Computação Aplicada, v. 12, n. 1, p. 16-31, 8 jan. 2020.  
 
 CARVALHO, D R. Árvore De Decisão / Algoritmo Genético Para Tratar o  Problema De Pequenos Disjuntos Em Classificação De Dados . Programa de Pós  Graduação – Universidade Federal do Rio de Janeiro.Rio de Janeiro. p.1-173 .2005.  
 
 ROSSO,Pedro Augusto Di Francia. Desenvolvimento e Implementação de  Aplicativo de Segurança para Sistemas de Áudio em Smartphones . TCC  (graduação) - Universidade Federal de Santa Catarina, Araranguá, Curso de  Engenharia da Computação, 2017.  
 
-Analise feita com base no exercício do curso da: Didática Tech

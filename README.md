@@ -139,7 +139,7 @@ saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo,
 Brasil . Cadernos de Saúde Pública, Rio de Janeiro, 35 ed., v. 7, p.1-19, Julho,
 2019.
 
-Didaticatec, exercício do curso utilizado como base para implementar o código do curso.
+Didaticatec, exercício do curso utilizado como base para implementar o código.
 
 MACHADO, E.; DE ASSIS, C.; PEREIRA, Modelagem, Implementação e  Avaliação de Estratégias de Negociação Baseadas em Algoritmos de  Aprendizado de Máquina para o Mercado Financeiro. Revista Brasileira de  Computação Aplicada, v. 12, n. 1, p. 16-31, 8 jan. 2020.  
 

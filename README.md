@@ -23,7 +23,7 @@ Naive Bayes (NB).
 Decision Tree (Árvore de Decisão).
 K-Neighbors (K-NN).
 
-### 2. Introdução:
+### 2. Introdução e Desenvolvimento:
 
 Efetuou-se o presente estudo por meio da análise dos arquivos
 disponibilizados na plataforma Kaggle, o dataset utilizado foi o: Brewer's Friend
@@ -32,9 +32,10 @@ cervejas.
 
 Os dados na plataforma Kaggle são atualizados em tempo real, e utilizou-se
 um conjunto de dados em formato CSV, com download efetuado para análise em
-fevereiro de 2021.
+fevereiro de 2021. O objetivo da analise é saber: Qual  modelo de classificação 
+tem performance mais eficiente em um banco de dados de  receitas de cervejas artesanais?  
 
-O processamento dos dados coletados foi realizado no ambiente COLAB e a
+Para isso o processamento dos dados coletados foi realizado no ambiente COLAB e a
 execução dos códigos foi efetuado na linguagem de programação python. As
 bibliotecas utilizadas foram: Pandas: para a manipulação de dados, Matplotlib para
 criação de gráficos e visualização de dados, Numpay para trabalhar com arrays,
